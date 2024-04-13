@@ -1,0 +1,101 @@
+master:
+PS C:\Users\marij\Desktop\SI_2024_lab1_203193> git log
+commit 50fb0d3a80e112ae862b1709a42cb91143d5e6d3 (HEAD -> master)
+Author: Marija Vukadinovska <marijavukadinovska@outlook.com>
+Date:   Sat Apr 13 04:27:39 2024 +0200
+
+    Final commit
+
+commit 7fbc2ebbac15c1278b4cb4a68776b1810170e5ea (origin/master, origin/bug2, bug2)
+Author: Marija Vukadinovska <marijavukadinovska@outlook.com>
+Date:   Sat Apr 13 01:33:33 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit b9f6a566cac269d8e934144430c0b878c244c77f (origin/bug1, bug1)
+Author: Marija Vukadinovska <marijavukadinovska@outlook.com>
+Date:   Sat Apr 13 01:44:53 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit bbfbbadf7628400219fca6d18b79dfb874044c2e
+Author: Marija Vukadinovska <marijavukadinovska@outlook.com>
+Date:   Sat Apr 13 01:23:35 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 58627132ba3a73d737f6484b84d08ed1a2e556da
+Author: Marija Vukadinovska <marijavukadinovska@outlook.com>
+Date:   Fri Apr 12 23:26:24 2024 +0200
+
+    Add starter code
+
+commit 33523f42c0b8c2097a418eab845555cec8cf8038
+Author: Marija Vukadinovska <marijavukadinovska@outlook.com>
+Date:   Fri Apr 12 23:07:16 2024 +0200
+
+    Initial commit
+
+
+
+bug1:
+commit b9f6a566cac269d8e934144430c0b878c244c77f (HEAD -> bug1, origin/bug1)
+Author: Marija Vukadinovska <marijavukadinovska@outlook.com>
+Date:   Sat Apr 13 01:44:53 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit bbfbbadf7628400219fca6d18b79dfb874044c2e
+Author: Marija Vukadinovska <marijavukadinovska@outlook.com>
+Date:   Sat Apr 13 01:23:35 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 58627132ba3a73d737f6484b84d08ed1a2e556da
+Author: Marija Vukadinovska <marijavukadinovska@outlook.com>
+Date:   Fri Apr 12 23:26:24 2024 +0200
+
+    Add starter code
+
+commit 33523f42c0b8c2097a418eab845555cec8cf8038
+Author: Marija Vukadinovska <marijavukadinovska@outlook.com>
+Date:   Fri Apr 12 23:07:16 2024 +0200
+
+    Initial commit
+
+
+
+
+bug2:
+commit 7fbc2ebbac15c1278b4cb4a68776b1810170e5ea (HEAD -> bug2, origin/master, origin/bug2, master)
+Author: Marija Vukadinovska <marijavukadinovska@outlook.com>
+Date:   Sat Apr 13 01:33:33 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit b9f6a566cac269d8e934144430c0b878c244c77f (origin/bug1, bug1)
+Author: Marija Vukadinovska <marijavukadinovska@outlook.com>
+Date:   Sat Apr 13 01:44:53 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit bbfbbadf7628400219fca6d18b79dfb874044c2e
+Author: Marija Vukadinovska <marijavukadinovska@outlook.com>
+Date:   Sat Apr 13 01:23:35 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 58627132ba3a73d737f6484b84d08ed1a2e556da
+Author: Marija Vukadinovska <marijavukadinovska@outlook.com>
+Date:   Fri Apr 12 23:26:24 2024 +0200
+
+    Add starter code
+
+commit 33523f42c0b8c2097a418eab845555cec8cf8038
+Author: Marija Vukadinovska <marijavukadinovska@outlook.com>
+Date:   Fri Apr 12 23:07:16 2024 +0200
+
+    Initial commit
+
+
+
